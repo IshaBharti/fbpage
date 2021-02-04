@@ -1,0 +1,66 @@
+
+h1{color: white;
+font-size: xx-large;
+display: inline;
+padding-right: 9px;
+padding-block-end: 3px;
+
+
+
+font-weight: bold;
+
+padding: 3px;}
+
+
+form{
+    /* padding-left: 30%; */
+    padding-top: 5;
+    
+    padding: 8%;
+
+left: 350px;
+  
+  width: 310px;
+  height: 300px;
+  
+  font-size: large;
+  position: fixed;
+  
+  
+}
+
+input {
+    
+    width:280px;
+    display: inline-block;
+    background-color: white;
+    font-size: inherit;
+    height:30px;
+    margin-bottom: inherit;
+    padding: 10px;
+  }
+  body{
+      background-color: white
+  }
+  button{
+      height: 45px;
+      width: 300px;
+      size: inherit;
+      font-size: inherit;
+
+  }p{
+      font-size: inherit;
+      color:white;
+      padding-left: 18px;
+  }
+  .card {
+      background-color:#3b5998 ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    border-radius: 10px;
+
+    text-align: center;
+    font-family: arial;
+    
+  }
